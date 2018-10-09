@@ -1,7 +1,7 @@
 def getBASIC():
-     theList = []
-     nothing = ''
-     while True:
+    theList = []
+    nothing = ''
+    while True:
         userInput = input()
         statement = userInput.split()
         theList.append(userInput)
