@@ -1,3 +1,4 @@
+# You don't need to define letterGoodness since it's already defined in the question
 letterGoodness = [0.0817, 0.0149, 0.0278, 0.0425, 0.127,
                   0.0223, 0.0202, 0.0609, 0.0697, 0.0015,
                   0.0077, 0.0402, 0.0241, 0.0675, 0.0751,
