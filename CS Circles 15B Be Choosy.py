@@ -12,3 +12,5 @@ def choose(n, k):
         baz *= (n - k) - i
 
     return foo/(bar*baz)
+
+# For more information: https://en.wikipedia.org/wiki/Combination
